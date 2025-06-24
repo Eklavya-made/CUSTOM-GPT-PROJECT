@@ -1,0 +1,30 @@
+sentence-transformers==2.2.2
+langchain
+flask
+pypdf
+ipykernel
+python-dotenv
+# pinecone[grpc]
+pinecone-client>=3.0.0
+langchain-pinecone
+langchain_community
+langchain_openai
+langchain_experimental
+huggingface_hub>=0.14.0
+
+# flask==2.3.3
+# python-dotenv==1.0.1
+# pypdf
+# ipykernel
+
+# langchain==0.1.15
+# langchain-core==0.1.44
+# langchain-community==0.0.30
+# langchain-huggingface==0.0.3
+# sentence-transformers==2.2.2
+# huggingface_hub==0.16.4
+# langchain-openai==0.1.6
+# langchain-pinecone==0.0.3
+
+
+-e .
